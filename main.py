@@ -1,10 +1,10 @@
 import pygame
 import sys
 import random
-# from quad import QuadNode
+from quad import QuadNode
 from math import atan2, degrees, radians, sin, cos, pi
 import numpy as np
-# from sliders import Slider
+from sliders import Slider
 
 
 mode = "sandbox"
